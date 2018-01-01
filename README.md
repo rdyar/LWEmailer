@@ -7,7 +7,7 @@ You can download a zip file of the installer and required file above under `Rele
 
 Go to File >> Settings to configure your info.
 
-Type in a LW Order Number and press return and it should populate the boxes below and then highlite the Custom Message text box. Click the send button and it will send the email.
+Type in a LW Order Number and press return and it should populate the boxes below and then highlite the Custom Message text box. Click the send button and it will send the email (email is also cc'd to the lab email address).
 
 The Customer First Name field can be problematic, there is no first name field in LW, just the account name. The code is checking to see if there is a comma in the account name (like `smith, dave`) and if there is then it splits it and uses the second part as the First Name. If there is no comma in the account name then it uses the whole account name.
 
