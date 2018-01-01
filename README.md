@@ -3,7 +3,7 @@ Simple app to send a reminder email to LW POS customers that have ready orders.
 
 This is built using the community version of Visual Studio.
 
-You can download a zip file of the installer and required file above under `Releases`.
+You can download a zip file of the installer and required files above under `Releases`.
 
 Go to File >> Settings to configure your info.
 
